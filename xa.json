@@ -950,5 +950,9 @@
     "46edc95643bf2c4ec527582a184ee8458cbda34239a6fa1b272c8fd3ed5258a0": {
         "valid": true,
         "expiration": "04/08/2025"
+    },
+    "a9dbf3208127fca48b34bf49750fde84a5514280cb5a2d4154730918b62f6135": {
+        "valid": true,
+        "expiration": "06/08/2025"
     }
 }
